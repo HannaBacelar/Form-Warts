@@ -1,7 +1,7 @@
   
   #  📝 Boas vindas ao repositório do projeto Form Warts !
 
-- Este proejto foi desenvolido no ano de 2022 no Módulo de Fundamentos na trybe, o prjeto foi  feito em dupla, contei com ajuda do meu parceiro Waldyr Neto!!
+- Este proejto foi desenvolido no ano de 2022 no Módulo de Fundamentos na trybe, o projeto foi  feito em dupla, contei com ajuda do meu parceiro Waldyr Neto!!
 
 # 🚦 Habilidades ultilizadas 
 - JavaScript
